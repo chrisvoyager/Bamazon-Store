@@ -31,6 +31,6 @@ VALUES ("Marth", "Prince", 2500, 100);
 INSERT INTO amiibo_list (amiibo_name, amiibo_type, price, store_quantity)
 VALUES ("Ike", "King", 2500, 100);
 INSERT INTO amiibo_list (amiibo_name, amiibo_type, price, store_quantity)
-VALUES ("Lucas", "PSI", 2500, 100);
+VALUES ("Cloud", "Limit Breaker", 2500, 100);
 
 
